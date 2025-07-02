@@ -19,31 +19,31 @@ The Local Movie Database stores the name, year, running length, genre, and reven
 
 <p align="center">
 "Help" Command: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/LMu90rA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 "Load" Command:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/n6BsSSj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 "Find" Command: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gwnuBd0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 "Add" Command:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/H6tQEgp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 "Statistics" Command:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/W77bfiR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 "Delete" Command:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/oEzbxvn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 "Highest" Command:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/oPVzsiO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
